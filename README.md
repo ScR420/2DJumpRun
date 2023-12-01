@@ -10,10 +10,10 @@ Welcome to the 2D Jump and Run game, a Visual Basic project developed in Visual 
 
 ## Screenshots
 
-![Gameplay Screenshot 1](sources/start (1).png)
+![Gameplay Screenshot 1](\sources/start (1).png)
 *Caption for the first screenshot.*
 
-![Gameplay Screenshot 2](sources/start (2).png)
+![Gameplay Screenshot 2](\sources/start (2).png)
 *Caption for the second screenshot.*
 
 ## Getting Started
