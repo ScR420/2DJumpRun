@@ -18,14 +18,14 @@ Welcome to the 2D Jump and Run game, a Visual Basic project developed in Visual 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/2d-jump-and-run.git`
-2. Open the solution file (`YourGame.sln`) in Visual Studio.
+1. Clone the repository: `git clone https://github.com/ScR420/2DJumpRun.git`
+2. Open the solution file (`2DJumpRun.sln`) in Visual Studio.
 3. Build the solution and run the project.
 
 ## Prerequisites
 
-- Visual Studio (version X.X or higher).
-- .NET Framework (mention the version, if applicable).
+- Visual Studio (version 17.7.4 or higher).
+- .NET Framework (4.8).
 
 ## Contributing
 
