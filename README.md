@@ -1,3 +1,4 @@
+
 # 2D Jump and Run Game
 
 Welcome to the 2D Jump and Run game, a Visual Basic project developed in Visual Studio! This game allows players to navigate a character left and right using the 'A' and 'D' keys, and jump with the 'Spacebar'.
@@ -14,7 +15,7 @@ Welcome to the 2D Jump and Run game, a Visual Basic project developed in Visual 
 
 *Caption for the first screenshot.*
 
-![Gameplay Screenshot 2](\sources/start (2).png)
+![Gameplay Screenshot 2](https://github.com/ScR420/2DJumpRun/blob/e0035a78ff8bb68b1b3218db57d7aa999fcbd039/sources/start%20(2).png)
 *Caption for the second screenshot.*
 
 ## Getting Started
