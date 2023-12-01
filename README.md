@@ -11,9 +11,10 @@ Welcome to the 2D Jump and Run game, a Visual Basic project developed in Visual 
 
 ## Screenshots
 
-![Start Image](https://github.com/ScR420/2DJumpRun/raw/79ef225e39404ea7141541058d14f9084b05b639/sources/start%20(1).png)
+![Start Screen](https://github.com/ScR420/2DJumpRun/raw/79ef225e39404ea7141541058d14f9084b05b639/sources/start%20(1).png)
 
-*Caption for the first screenshot.*
+*Welcome to the 2D Jump and Run Game! Embark on an exciting adventure as you navigate through challenging levels, overcome obstacles, and unleash your jumping skills. Press 'A' and 'D' to move left and right, and use the 'Spacebar' to jump. Are you ready to start the journey?*
+
 
 ![Gameplay Screenshot 2](https://github.com/ScR420/2DJumpRun/blob/e0035a78ff8bb68b1b3218db57d7aa999fcbd039/sources/start%20(2).png)
 *Caption for the second screenshot.*
